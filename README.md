@@ -24,7 +24,7 @@ Experiência em gerenciamento de ambientes críticos, tecnologias de virtualiza�
 ⚡ Fatos Divertidos: 
 - Adoro resolver desafios complexos de TI.
 - Entusiasta de segurança cibernética.
-- Apaixonado por tecnologias.
+- Apaixonado por tecnologia.
 
 Sinta-se à vontade para explorar meus repositórios e colaborar em projetos!
 
