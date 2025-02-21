@@ -20,8 +20,6 @@ Experiência em gerenciamento de ambientes críticos, tecnologias de virtualiza�
 
 ### Status Atual
 🌱 Atualmente, estou aprendendo mais sobre DevOps e Cloud Computing.
-
-⚡ Fatos Divertidos: 
 - Adoro resolver desafios complexos de TI.
 - Entusiasta de segurança cibernética.
 - Apaixonado por tecnologia.
