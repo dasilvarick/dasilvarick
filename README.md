@@ -1,5 +1,13 @@
 # Olá, eu sou o Marcos da Silva (@dasilvarick) 👋
-
+<!-- Cabeçalhos
+Os níveis de cabeçalhos são de 1 # à 6 #, sendo o menor #, é maior cabeçalho, por exemplo abaixo:
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
+ -->
 ## 📌Sobre Mim
 Sou Analista de TI com formação em Redes de Computadores e especializações em Servidores e Segurança. Apaixonado por tecnologia e sempre buscando aprender algo novo.
 Experiência em gerenciamento de ambientes críticos, tecnologias de virtualização, ferramentas de análise de segurança e dispositivos de redes. Responsável por desenvolvimento de projetos de migrações de ambientes físicos para ambientes virtuais com atualização de tecnologia e análise de possíveis impactos, atuação em correções de vulnerabilidades e acompanhamento de processos de auditoria de segurança. Resolução de problemas técnicos, suporte e treinamento de usuários.
