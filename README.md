@@ -43,7 +43,7 @@ Para colocar citações:
 
  
 ## 📌Sobre Mim
-Sou Analista de TI com formação em Redes de Computadores e especializações em Servidores e Segurança. Apaixonado por tecnologia e sempre buscando aprender algo novo.
+Sou Coordenador de TI com formação em Redes de Computadores e especializações em Servidores e Segurança. Apaixonado por tecnologia e sempre buscando aprender algo novo.
 Experiência em gerenciamento de ambientes críticos, tecnologias de virtualização, ferramentas de análise de segurança e dispositivos de redes. Responsável por desenvolvimento de projetos de migrações de ambientes físicos para ambientes virtuais com atualização de tecnologia e análise de possíveis impactos, atuação em correções de vulnerabilidades e acompanhamento de processos de auditoria de segurança. Resolução de problemas técnicos, suporte e treinamento de usuários.
 
 
